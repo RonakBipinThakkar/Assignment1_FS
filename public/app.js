@@ -1,0 +1,3 @@
+const element = React.createElement("div", null, React.createElement("h1", null, "Ronak Bipin Thakkar"), React.createElement("img", {src: "Ronak_LinkedIn.png", alt: "Profile Image"
+}), React.createElement("p", null, "An IT professional having around 9 years of experience of leading and managing software modules independently. I possess strong technical and functional expertise and have designed reusable and efficient software components. I have detailed knowledge of the entire SDLC."), React.createElement("br", null), React.createElement("button", null, React.createElement("a", { href: "https://github.com/RonakBipinThakkar"}, "View My GitHub Repo")));
+ReactDOM.render(element, document.getElementById('details'));

@@ -1,0 +1,30 @@
+#details {
+    font-family: 'calibri', 'arial', 'sans-serif';
+    width: 600px;
+    height: 600px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #e7e7e7;
+	margin: 0 auto;
+	padding: 3rem;
+    text-align: center;
+}
+
+h1, button {
+    background-color:#e7e7e7;
+    color:black;
+}
+
+img, h1, button {
+    border: 3px solid black;
+}
+
+button {
+    padding: 0.5rem 3rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
